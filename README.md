@@ -15,3 +15,9 @@ The name and address come from the user-provided Google Maps link. Hours, facili
 ## Design
 
 Warm cream #FAF7F2, chili red #9E2A2B, dark olive and espresso. Playfair Display and DM Sans. Responsive layouts, keyboard tabs, accessible order dialog, reduced-motion support, and a safe-area-aware mobile action dock.
+
+## Deployment
+
+GitHub: https://github.com/Tabaniii/nasi-tempong-by-sunda (private).
+Vercel project: `nasi-tempong-by-sunda` in `akmal-tabanis-projects`.
+Vercel supplies the production hostname for social sharing metadata. The Sites preview remains the fallback for non-Vercel builds. Local Vercel credentials and project linkage are ignored by Git.
